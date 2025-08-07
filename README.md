@@ -48,4 +48,13 @@ A simple, interactive Python-based Contact Book that allows users to add, view, 
 ```bash
 python contact_book_v3.py
 
+📒 Contact Book v3
+1. Add Contact
+2. View Contacts
+3. Delete Contact
+4. Edit Contact
+5. Search by Name
+6. Exit
+
+
 
